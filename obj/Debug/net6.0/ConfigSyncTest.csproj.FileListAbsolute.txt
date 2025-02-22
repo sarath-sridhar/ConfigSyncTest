@@ -36,3 +36,4 @@ C:\Users\saraths\source\repos\ConfigSyncTest\bin\Debug\net6.0\ConfigSync.pdb
 C:\Users\saraths\source\repos\ConfigSyncTest\obj\Debug\net6.0\ConfigSyncTest.csproj.AssemblyReference.cache
 C:\Users\saraths\source\repos\ConfigSyncTest\obj\Debug\net6.0\ConfigSyncTest.csproj.CopyComplete
 C:\Users\saraths\source\repos\ConfigSyncTest\bin\Debug\net6.0\appsettings.json
+C:\Users\saraths\source\repos\ConfigSyncTest\bin\Debug\net6.0\appsettings2.json

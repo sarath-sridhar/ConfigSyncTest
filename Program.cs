@@ -10,7 +10,7 @@ class Program
             .Build();
 
         var sync = new ConfigSynchronizer(config)
-            .FromJson("appsettings.json"); //Testing
+            .FromJson("appsettings2.json"); 
 
         var diffs = sync.GetDifferences();
         foreach (var diff in diffs)
